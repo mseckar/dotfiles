@@ -1,0 +1,85 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+brew bat
+brew brotli
+brew c-ares
+brew ca-certificates
+brew chezmoi
+brew eza
+brew fd
+brew fzf
+brew gettext
+brew gh
+brew git-delta
+brew gmp
+brew gnupg
+brew gnutls
+brew hashcat
+brew icu4c@77
+brew jq
+brew libassuan
+brew libevent
+brew libgcrypt
+brew libgit2
+brew libgit2@1.8
+brew libgpg-error
+brew libidn2
+brew libksba
+brew libnghttp2
+brew libssh2
+brew libtasn1
+brew libunistring
+brew libusb
+brew libuv
+brew llvm
+brew llvm@19
+brew lpeg
+brew luajit
+brew luv
+brew lz4
+brew mcfly
+brew minizip
+brew mpdecimal
+brew ncurses
+brew neovim
+brew nettle
+brew node
+brew npth
+brew nvm
+brew oniguruma
+brew openssl@3
+brew p11-kit
+brew pcre2
+brew pinentry
+brew pkgconf
+brew python@3.13
+brew readline
+brew ripgrep
+brew rust
+brew sqlite
+brew starship
+brew tmux
+brew tree-sitter
+brew unbound
+brew unibilium
+brew utf8proc
+brew xxhash
+brew xz
+brew yq
+brew z3
+brew zoxide
+brew zstd
+
+tap homebrew/cask
+cask bitwarden
+cask iterm2
+cask miniconda
+
+tap rcmdnk/file
+brew brew-file
+
+# App Store applications
+appstore 409183694 Keynote (14.2)
+appstore 310633997 WhatsApp (25.2.79)
