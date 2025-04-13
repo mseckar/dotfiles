@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew bat
+brew bitwarden-cli
 brew brotli
 brew c-ares
 brew ca-certificates
@@ -76,6 +77,7 @@ tap homebrew/cask
 cask bitwarden
 cask iterm2
 cask miniconda
+cask visual-studio-code
 
 tap rcmdnk/file
 brew brew-file
