@@ -9,6 +9,7 @@ brew c-ares
 brew ca-certificates
 brew chezmoi
 brew eza
+brew fastfetch
 brew fd
 brew fzf
 brew gettext
@@ -75,7 +76,7 @@ brew zstd
 
 tap homebrew/cask
 cask bitwarden
-cask iterm2
+cask ghostty
 cask miniconda
 cask visual-studio-code
 

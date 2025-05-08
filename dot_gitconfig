@@ -1,6 +1,8 @@
 [user]
-  name="Martin Seckar"
-  email="seckar.martin@gmail.com"
-  signingKey=key::ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDFP7qLz9p7CphJvdSQhyaXLaBayniYMe3KUxRBA+nit Bitwarden Signing Key
+  name = "Martin Seckar"
+  email = "seckar.martin@gmail.com"
+  signingKey = key::ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDFP7qLz9p7CphJvdSQhyaXLaBayniYMe3KUxRBA+nit Bitwarden Signing Key
 [gpg]
   format = ssh
+[commit]
+  gpgsign = true
